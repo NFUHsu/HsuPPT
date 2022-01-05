@@ -1,9 +1,0 @@
-<title>許冠昱檔案</title>
-
-<body bgcolor="orange">  
-
-<font size="20">許冠昱的檔案下載</font><br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fdc-m5hTRpk?start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y6GpgdSavcs?start=30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6HOY2JkOXf8?start=55" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
